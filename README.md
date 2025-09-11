@@ -1,4 +1,4 @@
-# ls (Laboratory of Solar Energies)
+# l (Laboratories)
 
 The home page that links to the static websites of the smart educational
 packages of the laboratories of the "Shamsipoor" branch of the "National
